@@ -394,7 +394,7 @@ class Tag(commands.Cog):
                 ANSWER = messages.POINT_DATAPHIL
             case 'echodatasheet':
                 ANSWER = messages.POINT_DATAECHO
-            case 'objectsheet':
+            case 'objectsheet' | 'objsheet':
                 ANSWER = messages.POINT_INTEROBJECTSHEET
             
             case 'worldexp' | 'worldxp' | 'worldlevel' | 'worldlvl':
