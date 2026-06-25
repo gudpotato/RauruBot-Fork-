@@ -148,7 +148,7 @@ HELP_TAG7 = ['''**Mechanics and Hints**''', '''
 HELP_TAG8 = ['''**Effects and Builds**''', '''
 `defense, bestarmor, bestfuse, gloomdmg, backscratcher, moisture, weatherattack, gloomattackresist, slipresist, attackupstacking, boneprof`''']
 HELP_TAG9 = ['''**Useful Links and Stuff**''', '''
-`wiki, fandom/wikimigration, tracker, botwtracker, armorcalc, mapcompletion, shrinefinder, maps, objectmap, objectterms, datasheet/phildatasheet, echodatasheet, objectsheet, worldexp/worldlevel, templescaling, sagelevel, bloodmoondoc/respawndoc, cooking, cookcalc, directimglink, beedletrades, amiibodrops, glitchsheet, dondon, horsecolors, devicedrain/energycelldrain, dispenserprices, combatguide/combattips, missableobjects, gamblinggame/luckytreasureshop, hoverbike, goldenwing/infinitywing, railpart/elevatorrail, betterpics, paracopter, bestfuses, fuseideas, autobuildsharing, voicememories/voicememoryvids`''']
+`wiki, fandom/wikimigration, tracker, botwtracker, armorcalc, mapcompletion, shrinefinder, maps, objectmap, objectterms, datasheet/phildatasheet, echodatasheet, objectsheet, worldexp/worldlevel, templescaling, sagelevel, bloodmoondoc/respawndoc, cooking, cookcalc, directimglink, beedletrades, amiibodrops, glitchsheet, dondon, horsecolors, devicedrain/energycelldrain, dispenserprices, combatguide/combattips, missableobjects, gamblinggame/luckytreasureshop, hoverbike, onefanwonder, goldenwing/infinitywing, railpart/elevatorrail, betterpics, paracopter, bestfuses, fuseideas, autobuildsharing, voicememories/voicememoryvids`''']
 HELP_TAG10 = ['''**Meta Info**''', '''
 `dupe1.1.2, dupe1.2.0, dupe1.2.1/dupe1.4.0/dupe1.4.1, 1.2.0FEzuggle/1.2.1FEzuggle/1.4.0FEzuggle/1.4.1FEzuggle/1.2.0FE/1.2.0zuggle, 1.4.1MNF/1.4.0MNF/1.2.1MNF/1.2.0MNF/1.2.1MsgNotFound/1.2.0MsgNotFound, downpatch, preventupdates, versioncheck, transferalbum, whereDLC, timestamp`''']
 HELP_TAG11 = ['''**Reference Images**''', '''
@@ -946,6 +946,12 @@ POINT_HOVERBIKEv4 = '''
 Here's a link to a guide on building the Hoverbike 4.0:
 https://youtu.be/AXWAEBlvIXs
 '''
+
+POINT_ONEFANWONDER = '''
+Here's a link to a guide on building Kleric's One-Fan Wonder:
+https://youtu.be/CBk-LVofNWY
+'''
+
 POINT_GOLDENWING = '''
 Here's are some links guides on obtaining the Golden Wing/Infinity Wing in TotK:
 Versions 1.0.0 - 1.1.2: <https://youtu.be/KTxbMQeIhno>
