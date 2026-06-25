@@ -442,6 +442,8 @@ class Tag(commands.Cog):
                 ANSWER = messages.POINT_HOVERBIKE
             # case 'hoverbike4.0' | 'railbike':
             #     ANSWER = messages.POINT_HOVERBIKEv4
+            case 'onefanwonder' | 'one-fanwonder'
+                ANSWER = messages.POINT_ONEFANWONDER
             case 'goldenwing' | 'infinitywing' | 'infinitewing':
                 ANSWER = messages.POINT_GOLDENWING
             case 'railingpart' | 'railpart' | 'elevatorpart' | 'elevatorrail':
